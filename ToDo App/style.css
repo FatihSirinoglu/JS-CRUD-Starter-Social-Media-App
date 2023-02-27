@@ -9,6 +9,7 @@ body{
     border-radius: 8px;
     padding: 15px;
     background-color: #fff;
+    overflow-y: scroll;
 }
 
 #addNew{
@@ -44,4 +45,8 @@ body{
 }
 .options i{
     cursor: pointer;
+}
+
+#msg{
+    color: red;
 }
